@@ -1,2 +1,0 @@
-summon firework_rocket ~ ~-0.6 ~ {Silent:1b,LifeTime:0,FireworksItem:{id:"firework_rocket",Count:1,tag:{Fireworks:{Flight:2,Explosions:[{Type:0,Flicker:0,Trail:0,Colors:[I;865124],FadeColors:[I;3487029]}]}}}}
-# execute at @s run playsound entity.generic.extinguish_fire master @a[distance=0..6] ~ ~ ~ 0.2 1 0.1
