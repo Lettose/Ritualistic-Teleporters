@@ -1,0 +1,33 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Ritualistic Teleporters",
+            "color": "light_purple"
+        },
+        "description": {
+            "text": ""
+        },
+        "icon": {
+            "item": "minecraft:echo_shard"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "criteria": {
+        "Scoreboard Init": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "requirements": [
+        [
+            "Scoreboard Init"
+        ]
+    ],
+    "rewards": {
+        "function": "ra:scoreboard_init"
+    }
+}
