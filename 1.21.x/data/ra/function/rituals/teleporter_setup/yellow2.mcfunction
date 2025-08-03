@@ -8,8 +8,6 @@ execute at @s at @e[tag=ritual,distance=0..1] run summon firework_rocket ~ ~ ~ {
 
 execute at @s run playsound minecraft:entity.generic.explode ambient @a[distance=0..5] ~ ~ ~ 0.8 1.4 0.3
 
-execute as @s unless entity @e[tag=yellow2,distance=1..] run kill @e[type=item,distance=0..1,nbt={Item:{id:"minecraft:echo_shard",count:1}},limit=1,sort=nearest]
-
 execute at @s at @e[tag=yellow2,distance=1..] run function ra:rituals/particles/break
 execute at @s run kill @e[type=marker,tag=yellow2,distance=1..]
 
