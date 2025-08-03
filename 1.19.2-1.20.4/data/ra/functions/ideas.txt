@@ -1,0 +1,15 @@
+Some ideas for rituals:
+
+- A ritual that slows the day/night cycle for some ammount of time.
+
+- A ritual that creates a bubble of protection. Any mobs that enter are put into a team with players in the bubble so players are not tarketed.
+
+- A ritual that prevents a user from both taking and dealing damage for a time.
+
+- Rituals that buff armaments and items? (infinite durability for a short duration? Extra Strength, etc.)
+
+- Corrupted Rituals. (Maybe nether spread/coruption)
+
+- LOOT Rituals - trade some rare items for random loot that has a chance to be exceptional.
+
+- Add random structures such as decrepit dungeons and corrupted altars that spread sculk
